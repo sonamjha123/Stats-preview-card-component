@@ -5,15 +5,15 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 # Table of contents
 
 Overview
-  -> The challenge
-  -> Screenshot
-  -> Links
+  The challenge
+  Screenshot
+  Links
 
 My process
-  -> Built with
-  -> What I learned
-  -> Continued development
-  -> Useful resources
+  Built with
+  What I learned
+  Continued development
+  Useful resources
 
 Author
 Acknowledgement
@@ -35,8 +35,8 @@ Users should be able to:
 
 Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/profile/sonamjha123
+- Live Site URL: https://sonamjha123.github.io/Stats-preview-card-component/
 
 # My process
 
